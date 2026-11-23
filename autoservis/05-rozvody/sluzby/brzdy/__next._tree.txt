@@ -1,0 +1,6 @@
+:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/chunks/1trwqsdye6u0c.css","style"]
+:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/media/onest_latin-s.p.2sla2yow9-9p_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/media/onest_latin_ext.p.0t4d9turf_6_x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/media/rokkitt_latin-s.p.1_g2fusqyvshd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/media/rokkitt_latin_ext.p.3z2rp49un9cyj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"brzdy","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"kPAqJDceVmJVjUsrfkjQg"}

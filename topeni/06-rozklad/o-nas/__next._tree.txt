@@ -1,0 +1,8 @@
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/chunks/1pfsmm6ptgzoe.css","style"]
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/media/teko_latin.p.44ggz8q6qt7y3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/media/teko_latin_ext.p.1a-yw6aev-2jz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/media/titillium_400_latin.p.3pzoh97cr95ga.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/media/titillium_400_latin_ext.p.27j-o86gye2re.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/media/titillium_600_latin.p.1xat24709ezgo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/topeni/06-rozklad/_next/static/media/titillium_600_latin_ext.p.3_l-kzejbq-3w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Quoag9_UA-5C00iZWnAE1"}

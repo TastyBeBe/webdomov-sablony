@@ -1,0 +1,6 @@
+:HL["/webdomov-sablony/stavby/01-obklad/_next/static/chunks/24w_xy95tt2up.css","style"]
+:HL["/webdomov-sablony/stavby/01-obklad/_next/static/media/lexend_exa_latin.p.1r22-b1injbfa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/stavby/01-obklad/_next/static/media/lexend_exa_latin_ext.p.2ry618i_ef8af.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/stavby/01-obklad/_next/static/media/lexend_latin.p.2svk7cnw5x6df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/stavby/01-obklad/_next/static/media/lexend_latin_ext.p.17thoc14mwfyx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ochrana-udaju","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"g2A3CHtUpGWlNiPCCTDQJ"}

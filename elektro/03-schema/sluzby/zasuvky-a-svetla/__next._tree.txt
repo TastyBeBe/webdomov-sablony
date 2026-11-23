@@ -1,0 +1,6 @@
+:HL["/webdomov-sablony/elektro/03-schema/_next/static/chunks/27rx9bmhb3z5a.css","style"]
+:HL["/webdomov-sablony/elektro/03-schema/_next/static/media/jura_600_latin.p.3gpmvszleerg4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/elektro/03-schema/_next/static/media/jura_600_latin_ext.p.1xd1u6dosef1i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/elektro/03-schema/_next/static/media/pontano_sans_latin.p.0vkic6_fjq69s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/elektro/03-schema/_next/static/media/pontano_sans_latin_ext.p.0vf425sqtm5g5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zasuvky-a-svetla","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5oCaINk7ri7JjaZX6B4Z0"}
