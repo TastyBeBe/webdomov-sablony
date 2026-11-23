@@ -1,4 +1,5 @@
 :HL["/webdomov-sablony/topeni/07-misto/_next/static/chunks/3itbup9m_p_9b.css","style"]
 :HL["/webdomov-sablony/topeni/07-misto/_next/static/media/sen_latin.p.045ddr3eo6g3u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/07-misto/_next/static/media/sen_latin_ext.p.3g6ovnmdrjudu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"montaz-klimatizace","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"7mYAZNRWINt92nWUiVnZc"}
+:HL["/webdomov-sablony/topeni/07-misto/nahled/ro-med-01.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"montaz-klimatizace","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"OOEV2w6QTFh_j5RmWeO_n"}
