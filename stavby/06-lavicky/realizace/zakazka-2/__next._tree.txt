@@ -5,4 +5,5 @@
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_500_latin_ext.p.0keg1dd8usu8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_600_latin.p.1w7v5n205a0u5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_600_latin_ext.p.0475x8l9gserx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-2","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ucUtr60dka3YSkZtNqiFs"}
+:HL["/webdomov-sablony/stavby/06-lavicky/nahled/vy-pruty-02.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-2","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"lXqGqZIhAmTmnj9HwivUN"}
