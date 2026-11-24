@@ -5,4 +5,4 @@
 :HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/media/radio_canada_latin_ext.p.3krt2aemevpjs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/05-vodovaha/nahled/om-lzice-02.jpg","image"]
 :HL["/webdomov-sablony/stavby/05-vodovaha/nahled/sd-impregnovany-02.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"_-Ni0qhPtEWEm_7KUvD35"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"vTdq0xhpra2SGSWWz9Oil"}

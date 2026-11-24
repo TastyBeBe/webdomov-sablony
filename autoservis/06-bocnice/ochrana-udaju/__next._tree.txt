@@ -3,4 +3,4 @@
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/krona_one_latin_ext.p.1cpb3qs0xyh7s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/kumbh_sans_latin-s.p.030kk_kf7g0jt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/kumbh_sans_latin_ext.p.2r2dbe0vuqjt-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ochrana-udaju","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tl0lnu4TDQz2E39nWRkTI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ochrana-udaju","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"v--oD1H-t0Q1k5B1gUZXr"}

@@ -4,4 +4,4 @@
 :HL["/webdomov-sablony/stavby/04-vezdi/_next/static/media/young_serif_latin-s.p.1sj2vuw194_rx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/04-vezdi/_next/static/media/young_serif_latin_ext.p.3r11t8qn1bk6_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/04-vezdi/nahled/zd-cihla-03.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rekonstrukce-domu","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"joUte-HJfojLKj9h5ebkp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rekonstrukce-domu","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qYN79HErc9kv1Pwffzvpx"}
