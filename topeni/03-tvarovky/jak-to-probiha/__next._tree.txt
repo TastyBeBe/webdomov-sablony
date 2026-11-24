@@ -8,4 +8,4 @@
 :HL["/webdomov-sablony/topeni/03-tvarovky/_next/static/media/fjalla_one_400_latin-s.p.1i89qv3i6sl35.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/03-tvarovky/_next/static/media/fjalla_one_400_latin_ext.p.0d60rgykt4ng9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/03-tvarovky/_next/static/chunks/3d6toj2dgj0le.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"jak-to-probiha","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"1-Rv-FeiIIax1GM28qlq3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"jak-to-probiha","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"oXKJ2-V0IFvNKOjh8U94g"}

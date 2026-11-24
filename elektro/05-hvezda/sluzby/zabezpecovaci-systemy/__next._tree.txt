@@ -3,4 +3,5 @@
 :HL["/webdomov-sablony/elektro/05-hvezda/_next/static/media/afacad_latin_ext.p.0iz3-th048d5-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/elektro/05-hvezda/_next/static/media/tektur_600_latin-s.p.3t_43mtk1tg2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/elektro/05-hvezda/_next/static/media/tektur_600_latin_ext.p.1qaum6d8vcdx7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zabezpecovaci-systemy","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"4mdu1iufZ3Vqd8WYqCqfa"}
+:HL["/webdomov-sablony/elektro/05-hvezda/nahled/sv-podhled-01.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zabezpecovaci-systemy","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"taWRmQPIGCnCL4obIGlYK"}

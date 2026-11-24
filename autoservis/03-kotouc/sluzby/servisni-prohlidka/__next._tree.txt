@@ -9,4 +9,5 @@
 :HL["/webdomov-sablony/autoservis/03-kotouc/_next/static/media/barlow_condensed_600_latin_ext.p.2omtmoo94goav.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/03-kotouc/_next/static/media/barlow_condensed_700_latin-s.p.0xxdg0o7uh536.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/03-kotouc/_next/static/media/barlow_condensed_700_latin_ext.p.1oqo1buse5xew.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"servisni-prohlidka","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"M_AkmV2i0ZBoIZEtoRKY9"}
+:HL["/webdomov-sablony/autoservis/03-kotouc/nahled/na-naradi-01.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"servisni-prohlidka","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"bbHyQiI2vjUs4LSniK2-P"}
