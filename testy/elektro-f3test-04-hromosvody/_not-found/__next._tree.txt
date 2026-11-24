@@ -1,0 +1,2 @@
+:HL["/webdomov-sablony/testy/elektro-f3test-04-hromosvody/_next/static/chunks/0zhmx3poxqx_c.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"dy3hM1q3enPjvD9FH0lI8"}

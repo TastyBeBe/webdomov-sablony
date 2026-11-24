@@ -1,0 +1,2 @@
+:HL["/webdomov-sablony/testy/autoservis-f3test-06-obecny/_next/static/chunks/4084gvwzyzayo.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"a5vK_Ki6D8vUjRfleSXKI"}
