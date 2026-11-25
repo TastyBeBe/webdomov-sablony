@@ -1,0 +1,2 @@
+:HL["/webdomov-sablony/testy/stavby-f4test-07-koupelny/_next/static/chunks/1wbop6lpk43k5.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"MF-egFF3Ilx0x5mmx6lES"}

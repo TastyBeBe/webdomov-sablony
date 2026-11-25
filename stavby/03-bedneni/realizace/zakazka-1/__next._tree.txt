@@ -1,8 +1,8 @@
-:HL["/webdomov-sablony/stavby/03-bedneni/_next/static/chunks/3xkmg8n9dro4e.css","style"]
+:HL["/webdomov-sablony/stavby/03-bedneni/_next/static/chunks/1h2iyq_yxgo43.css","style"]
 :HL["/webdomov-sablony/stavby/03-bedneni/_next/static/media/asap_latin-s.p.1rh46f8phqm43.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/03-bedneni/_next/static/media/asap_latin_ext.p.2q3ep6t6beag3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/03-bedneni/_next/static/media/zilla_slab_600_latin-s.p.2eby0yrg01v4v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/03-bedneni/_next/static/media/zilla_slab_600_latin_ext.p.3wfkzzdejku_n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/webdomov-sablony/stavby/03-bedneni/nahled/bd-system-02.jpg","image"]
+:HL["/webdomov-sablony/stavby/03-bedneni/nahled/in-novybyt-02.jpg","image"]
 :HL["/webdomov-sablony/stavby/03-bedneni/nahled/hs-otvory-01.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"y029wGLArOas5Io---G-4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"yWWNpxvZHgZyyB6D7U7Ze"}

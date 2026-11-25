@@ -1,2 +1,2 @@
-:HL["/webdomov-sablony/autoservis/03-kotouc/_next/static/chunks/37ojg7f1qpu7e.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"bbHyQiI2vjUs4LSniK2-P"}
+:HL["/webdomov-sablony/autoservis/03-kotouc/_next/static/chunks/43fmppqmtr08y.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"aJ79RryHAvc_y8BSUvc4v"}

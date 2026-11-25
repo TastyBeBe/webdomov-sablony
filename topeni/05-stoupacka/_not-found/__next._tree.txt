@@ -1,3 +1,3 @@
-:HL["/webdomov-sablony/topeni/05-stoupacka/_next/static/chunks/1mn3s9x77wjao.css","style"]
+:HL["/webdomov-sablony/topeni/05-stoupacka/_next/static/chunks/0cgyjckm855a-.css","style"]
 :HL["/webdomov-sablony/topeni/05-stoupacka/_next/static/chunks/3l073hxos1dj2.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ewMZP2d9VOEUPcXmTy25N"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"N1bWPirKfsOz4upGwcUlJ"}

@@ -1,4 +1,4 @@
-:HL["/webdomov-sablony/topeni/01-okruh/_next/static/chunks/3s0z19rb99-h2.css","style"]
+:HL["/webdomov-sablony/topeni/01-okruh/_next/static/chunks/1d9wrjv5dugy0.css","style"]
 :HL["/webdomov-sablony/topeni/01-okruh/_next/static/media/istok_web_400_latin-s.p.2xm3m9fncadzw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/01-okruh/_next/static/media/istok_web_400_latin_ext.p.3n1w9sej5el2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/01-okruh/_next/static/media/istok_web_700_latin-s.p.3expuvn27z-jr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 :HL["/webdomov-sablony/topeni/01-okruh/_next/static/media/tomorrow_600_latin-s.p.1ah6bu1sj-bl0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/01-okruh/_next/static/media/tomorrow_600_latin_ext.p.318qzxr_uee6m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/01-okruh/_next/static/chunks/43epel_ou_b43.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"servis-tepelnych-cerpadel","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"2obuiM5LilZi9PyscoWb-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"servis-tepelnych-cerpadel","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"XzXMjBLVkrKHG1FAqfX_x"}

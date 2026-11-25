@@ -1,2 +1,2 @@
-:HL["/webdomov-sablony/stavby/04-vezdi/_next/static/chunks/1q25y0thxdwpk.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"qYN79HErc9kv1Pwffzvpx"}
+:HL["/webdomov-sablony/stavby/04-vezdi/_next/static/chunks/0qnhef-am93x9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"lfo1JQWatcHICglucEO9H"}

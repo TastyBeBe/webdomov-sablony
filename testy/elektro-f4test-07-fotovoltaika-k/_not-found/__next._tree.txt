@@ -1,0 +1,2 @@
+:HL["/webdomov-sablony/testy/elektro-f4test-07-fotovoltaika-k/_next/static/chunks/0gkpip22g2w6-.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"QRmr63Efz_WPgGIV2cjlF"}

@@ -1,2 +1,2 @@
-:HL["/webdomov-sablony/topeni/07-misto/_next/static/chunks/3itbup9m_p_9b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"a_riFLUZAOvbk_nQ61T19"}
+:HL["/webdomov-sablony/topeni/07-misto/_next/static/chunks/3gc0bbq66a_tr.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"7DHe_Y4mGZ-j7MHQCtttA"}

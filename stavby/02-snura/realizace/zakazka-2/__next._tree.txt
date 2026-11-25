@@ -1,7 +1,7 @@
-:HL["/webdomov-sablony/stavby/02-snura/_next/static/chunks/177hw54wi_wce.css","style"]
+:HL["/webdomov-sablony/stavby/02-snura/_next/static/chunks/2ca9qyqvor7hk.css","style"]
 :HL["/webdomov-sablony/stavby/02-snura/_next/static/media/saira_condensed_latin.p.3-n57bcvaz8oc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/02-snura/_next/static/media/saira_condensed_latin_ext.p.2ghbzre0fc5v5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/02-snura/_next/static/media/saira_latin-s.p.161-8jf3b5y85.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/02-snura/_next/static/media/saira_latin_ext.p.28pwg5cihh1vo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/02-snura/nahled/le-detail-01.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-2","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"GajIvDNsoJOPmPfAQvwdH"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zakazka-2","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"kVegEYPPe6LwiPtFZ6tLU"}

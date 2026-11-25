@@ -1,7 +1,7 @@
-:HL["/webdomov-sablony/topeni/04-prutok/_next/static/chunks/07_ewlk6qe738.css","style"]
+:HL["/webdomov-sablony/topeni/04-prutok/_next/static/chunks/3zwah-nciasz6.css","style"]
 :HL["/webdomov-sablony/topeni/04-prutok/_next/static/media/didact_gothic_400_latin-s.p.0t94oh5c5xuhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/04-prutok/_next/static/media/didact_gothic_400_latin_ext.p.1b8zka0tr4ygr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/04-prutok/_next/static/media/michroma_400_latin-s.p.2qpii4b6jmzj9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/04-prutok/_next/static/media/michroma_400_latin_ext.p.0j9pqkz3er-71.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/topeni/04-prutok/_next/static/chunks/2dbhwfjpjp5mj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"jak-to-probiha","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"joBMnJOgjzZJMV4mLBoi6"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"jak-to-probiha","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"w9d8tZoALN790QRKTymuc"}

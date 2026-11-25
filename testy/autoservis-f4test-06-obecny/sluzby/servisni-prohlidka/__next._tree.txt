@@ -1,0 +1,6 @@
+:HL["/webdomov-sablony/testy/autoservis-f4test-06-obecny/_next/static/chunks/3u1hnz683y21k.css","style"]
+:HL["/webdomov-sablony/testy/autoservis-f4test-06-obecny/_next/static/media/krona_one_latin-s.p.1invpuxep94a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/testy/autoservis-f4test-06-obecny/_next/static/media/krona_one_latin_ext.p.1cpb3qs0xyh7s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/testy/autoservis-f4test-06-obecny/_next/static/media/kumbh_sans_latin-s.p.030kk_kf7g0jt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/testy/autoservis-f4test-06-obecny/_next/static/media/kumbh_sans_latin_ext.p.2r2dbe0vuqjt-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"servisni-prohlidka","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"p8Cvaxee38COsCwt3h7-V"}
