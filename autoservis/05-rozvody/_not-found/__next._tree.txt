@@ -1,2 +1,2 @@
-:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/chunks/31pjgm2q_7m_n.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ZJUqdIxz2mdozIoXqd1CD"}
+:HL["/webdomov-sablony/autoservis/05-rozvody/_next/static/chunks/24dcv45zg26en.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"8j4lp1ZZcnGZjEK3Eq7DF"}

@@ -1,6 +1,6 @@
-:HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/chunks/3goj3znswzfq5.css","style"]
+:HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/chunks/25jvobs54882l.css","style"]
 :HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/media/radio_canada_big_500_latin-s.p.2cw6vz6a4gev-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/media/radio_canada_big_500_latin_ext.p.32w-knl4l-4vw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/media/radio_canada_latin-s.p.1si508koa-egn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/05-vodovaha/_next/static/media/radio_canada_latin_ext.p.3krt2aemevpjs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ochrana-udaju","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"dnYyTwmRMmR_fksgiZAg4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ochrana-udaju","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"V7Vh3QPB7fs2QA-afUHOF"}

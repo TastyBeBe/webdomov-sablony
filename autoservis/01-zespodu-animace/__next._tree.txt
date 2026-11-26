@@ -1,0 +1,6 @@
+:HL["/webdomov-sablony/autoservis/01-zespodu-animace/_next/static/chunks/3l8f5ot3o3bxp.css","style"]
+:HL["/webdomov-sablony/autoservis/01-zespodu-animace/_next/static/media/league_spartan_latin-s.p.32snlzrbv4loj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/01-zespodu-animace/_next/static/media/league_spartan_latin_ext.p.21-85hpu1rtwe.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/01-zespodu-animace/_next/static/media/rethink_sans_latin-s.p.0dhp2_wm7tc69.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/01-zespodu-animace/_next/static/media/rethink_sans_latin_ext.p.0-pv9q_xf_hpz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"qzBZy0qXbPNI1mbZN4B1K"}

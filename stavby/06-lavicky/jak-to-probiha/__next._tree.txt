@@ -1,8 +1,8 @@
-:HL["/webdomov-sablony/stavby/06-lavicky/_next/static/chunks/2z6ckkv_r6ot_.css","style"]
+:HL["/webdomov-sablony/stavby/06-lavicky/_next/static/chunks/0hdepk23h-uy0.css","style"]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_400_latin.p.1qvbhs2i2dzz5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_400_latin_ext.p.1chf9f55693u5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_500_latin.p.16_h8xmjmng0_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_500_latin_ext.p.0keg1dd8usu8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_600_latin.p.1w7v5n205a0u5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/stavby/06-lavicky/_next/static/media/bai_jamjuree_600_latin_ext.p.0475x8l9gserx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"jak-to-probiha","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ZaXzmAUFR77j2EUd1tX8d"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"jak-to-probiha","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"YHVRBC0wfCq2-sMNXK_CX"}

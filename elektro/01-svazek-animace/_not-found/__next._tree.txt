@@ -1,0 +1,2 @@
+:HL["/webdomov-sablony/elektro/01-svazek-animace/_next/static/chunks/3_wsfjkzat-x_.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"y5c3beSGN5OmAYs2zp13K"}

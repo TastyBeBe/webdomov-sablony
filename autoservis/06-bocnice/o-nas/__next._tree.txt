@@ -1,6 +1,6 @@
-:HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/chunks/2xe_5i27fbi1i.css","style"]
+:HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/chunks/2vrt2yq7d6shb.css","style"]
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/krona_one_latin-s.p.1invpuxep94a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/krona_one_latin_ext.p.1cpb3qs0xyh7s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/kumbh_sans_latin-s.p.030kk_kf7g0jt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/autoservis/06-bocnice/_next/static/media/kumbh_sans_latin_ext.p.2r2dbe0vuqjt-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"MNV14wyyCFzSmfn_vqD8I"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"cwFVQvAW9HxaJRnfr5OhN"}

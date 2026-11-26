@@ -1,0 +1,6 @@
+:HL["/webdomov-sablony/stavby/02-snura-animace/_next/static/chunks/42s609-6ru845.css","style"]
+:HL["/webdomov-sablony/stavby/02-snura-animace/_next/static/media/saira_condensed_latin.p.3-n57bcvaz8oc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/stavby/02-snura-animace/_next/static/media/saira_condensed_latin_ext.p.2ghbzre0fc5v5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/stavby/02-snura-animace/_next/static/media/saira_latin-s.p.161-8jf3b5y85.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/stavby/02-snura-animace/_next/static/media/saira_latin_ext.p.28pwg5cihh1vo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"sluzby","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"X1XWRlRa1eBzmA6CGUMtX"}

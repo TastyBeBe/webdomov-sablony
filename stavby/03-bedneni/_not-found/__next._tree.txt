@@ -1,2 +1,2 @@
-:HL["/webdomov-sablony/stavby/03-bedneni/_next/static/chunks/1h2iyq_yxgo43.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"yWWNpxvZHgZyyB6D7U7Ze"}
+:HL["/webdomov-sablony/stavby/03-bedneni/_next/static/chunks/2g7e83jo5c8hm.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rjBKtBDeHFroj9KQpUzOP"}

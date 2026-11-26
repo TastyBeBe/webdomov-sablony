@@ -1,6 +1,6 @@
-:HL["/webdomov-sablony/elektro/02-rozvodnice/_next/static/chunks/3veeoaeyy-_c3.css","style"]
+:HL["/webdomov-sablony/elektro/02-rozvodnice/_next/static/chunks/2r2p3qhk77vf2.css","style"]
 :HL["/webdomov-sablony/elektro/02-rozvodnice/_next/static/media/ropa_sans_400_latin.p.0wsdf7qexnlp_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/elektro/02-rozvodnice/_next/static/media/ropa_sans_400_latin_ext.p.1m5qounlcuyci.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/elektro/02-rozvodnice/_next/static/media/sarpanch_600_latin.p.266d1ua4hsvrh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-sablony/elektro/02-rozvodnice/_next/static/media/sarpanch_600_latin_ext.p.1795ck0c5j7-5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"bRLvYdMBySo3vY5aSvXVd"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"fKORVQOCdwFToF5FfaQsM"}

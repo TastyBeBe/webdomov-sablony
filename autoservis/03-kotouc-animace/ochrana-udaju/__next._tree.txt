@@ -1,0 +1,12 @@
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/chunks/1fy_hj2ezjgi0.css","style"]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_400_latin-s.p.2p4adm_386h58.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_400_latin_ext.p.00hyb-x0mjr9g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_500_latin-s.p.0s4utfvp8prsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_500_latin_ext.p.1qsgyx-tuq4mu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_600_latin-s.p.22ggkaf3lyu8c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_600_latin_ext.p.3sup9rdq9grs5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_condensed_600_latin-s.p.3lj349bs9hfu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_condensed_600_latin_ext.p.2omtmoo94goav.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_condensed_700_latin-s.p.0xxdg0o7uh536.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-sablony/autoservis/03-kotouc-animace/_next/static/media/barlow_condensed_700_latin_ext.p.1oqo1buse5xew.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ochrana-udaju","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"95PCZYwwwxuSBfpVwxnHH"}
